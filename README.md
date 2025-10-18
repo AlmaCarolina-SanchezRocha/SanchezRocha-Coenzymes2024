@@ -1,2 +1,2 @@
 # SanchezRocha-Coenzymes2024
-Code and data for "Coenzyme-Protein Interactions since Early Life", developed by the author. Published in eLife: https://elifesciences.org/reviewed-preprints/94174#d1e1089
+Code and data for "Coenzyme-Protein Interactions since Early Life", developed by Alma Carolina Sanchez-Rocha. Published in eLife: https://doi.org/10.7554/eLife.94174.2
